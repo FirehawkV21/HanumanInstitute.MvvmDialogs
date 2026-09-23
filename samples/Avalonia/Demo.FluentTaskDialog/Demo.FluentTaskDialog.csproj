@@ -27,6 +27,7 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="System.Reactive" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\..\src\MvvmDialogs.Avalonia.Fluent\MvvmDialogs.Avalonia.Fluent.csproj" />
